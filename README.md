@@ -8,4 +8,4 @@ Single tap to take photos,long press to take photos.
 
 ## Example
 
-[!Show](https://github.com/MartinRGB/android_camera_experiment/blob/master/example.gif)
+![Show](https://github.com/MartinRGB/android_camera_experiment/blob/master/example.gif?raw=true)
