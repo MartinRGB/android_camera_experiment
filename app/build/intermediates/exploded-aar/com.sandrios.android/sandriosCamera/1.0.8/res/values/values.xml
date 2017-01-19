@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isTablet">false</bool>
+    <declare-styleable name="CropperView"><attr format="color" name="grid_color"/><attr format="dimension" name="grid_thickness"/><attr format="float" name="grid_opacity"/><attr format="color" name="padding_color"/><attr format="boolean" name="add_padding_to_make_square"/></declare-styleable>
+    <integer name="frontFaceCameraRotationShift">270</integer>
+    <integer name="rearCameraRotationShift">90</integer>
+    <string name="cancel_label">Cancel</string>
+    <string name="ok_label">Ok</string>
+    <string name="preview_controls_cancel">Cancel</string>
+    <string name="preview_controls_confirm">Save</string>
+    <string name="preview_controls_crop">Crop</string>
+    <string name="preview_controls_original_ratio_label">Original</string>
+    <string name="preview_controls_retake">Repeat</string>
+    <string name="settings_photo_quality_title">Photo size</string>
+    <string name="settings_video_quality_title">Video size %s</string>
+    <style name="PreviewButtonsStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textColor">#fafafa</item>
+    </style>
+    <style name="Theme.app" parent="Theme.AppCompat.NoActionBar">
+        <!-- Your main app theme items go here-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="Theme.app.Translucent" parent="Theme.app">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+    <style name="ThemeFullscreen" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="ThemeFullscreen.Crop">
+        <item name="colorPrimary">@android:color/transparent</item>
+        <item name="colorPrimaryDark">@android:color/transparent</item>
+    </style>
+    <style name="noAnimTheme" parent="android:Theme">
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>

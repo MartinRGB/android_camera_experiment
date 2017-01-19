@@ -1,0 +1,7 @@
+#Thu Jan 19 11:32:41 CST 2017
+base.0=/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9992b95cc37cb39fc385eb75ddffc9389feec72b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0a3612b7f2fee3dc4dbb5a6f50363434e6bee4b2/classes.dex
+base.1=/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0a3612b7f2fee3dc4dbb5a6f50363434e6bee4b2
+file.0=/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9992b95cc37cb39fc385eb75ddffc9389feec72b/classes.dex

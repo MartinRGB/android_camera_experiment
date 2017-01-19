@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/menu/ucrop_menu_activity.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/menu/ucrop_menu_activity.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/menu/ucrop_menu_activity.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/menu/ucrop_menu_activity.xml"
+    }
+]

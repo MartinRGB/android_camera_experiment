@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_cross.png",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_cross.png"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_reset.png",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_reset.png"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_scale.png",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_scale.png"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_rotate.png",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_done.png",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_done.png"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_rotate.png",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_cross.png",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_cross.png"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_reset.png",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_reset.png"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_crop.png",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_crop.png"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_done.png",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_done.png"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_crop.png",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_crop.png"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_angle.png",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_angle.png"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_next.png",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_next.png"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_angle.png",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_angle.png"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_next.png",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_next.png"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_scale.png",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable-ldpi-v4/ucrop_ic_scale.png"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/anim/hold.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/anim/hold.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_scale.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_path.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/anim/hold.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/anim/hold.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_scale.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_path.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_in_top.xml"
+    }
+]

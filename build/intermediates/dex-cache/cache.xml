@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_e302156027d13de2472b22898996bab8befc0f74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="515960f41b2032bbff45af39c0c9628db4956d3e">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.yalantis-ucrop-2.2.0_f860798faaa274d814e2c7acf95e84611fbb1709/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_e22bb6c2199807a7f07d8d61860eac5a21e968a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_0ff14c873d46e465c92f5630d785f5734e70e502/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_41848342a7f1d9dd2abded2415fdc52a1df8c1d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.zhy/autolayout/1.4.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b69b69f0f434b79d767329fcf1ca6ba1540c509">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.zhy-autolayout-1.4.5_d1e7d85e2017f57427c9efd1079cf2a786247d74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_623084b3d83d7ca14fc6864c43abccb34ab4da20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_b19caaf58b985ec03c001027c51424a2ab09082c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_b7649c6539f33270ba066a9e6b0eaf49962e3064/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.7/69d90fd7fb70e54746e26c10454c220e40a775ce/otto-1.3.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69d90fd7fb70e54746e26c10454c220e40a775ce">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/otto-1.3.7_af2b0e9c1d456eafd9a58c5e89812b4f4df4779c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="515960f41b2032bbff45af39c0c9628db4956d3e">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.yalantis-ucrop-2.2.0_434899f07d7639b87ad38df573b6a55b28439967/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/gun0912.ted/tedpermission/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="703c95818950344722c5d545e0763f4ae92625ce">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/gun0912.ted-tedpermission-1.0.2_218bd9255c1db0516492d81c892879f997a5add8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/exploded-aar/com.zhy/autolayout/1.4.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b69b69f0f434b79d767329fcf1ca6ba1540c509">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.zhy-autolayout-1.4.5_34bd44a8bc9b1221d68c9f12b52ddbaab396b565/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="515960f41b2032bbff45af39c0c9628db4956d3e">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.yalantis-ucrop-2.2.0_332d224975814d472e1f6eed4a36fd993c1a3c5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.zhy/autolayout/1.4.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b69b69f0f434b79d767329fcf1ca6ba1540c509">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.zhy-autolayout-1.4.5_55cd0118ba5f91f0eb4f24212646528537589a1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_9de8ea3b469db7016bffbb7bcd8fbc50ff985d36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_8353df2eb1771224a0020dee07a99f2bc952e73e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_009c0e08882971366be7e3eb232998d71e9757ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/.gradle/caches/modules-2/files-2.1/com.facebook.rebound/rebound/0.3.8/c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e/rebound-0.3.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/rebound-0.3.8_d34a41269c1d5ff4639bfd2688957821237d8c46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_7c3714cb4308769a2092f5246674cc4b1baf1829/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f924214d120fcc362414a215fd558db194d9f344">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fa3ad80e9884297c9831f7b27f8530ed127cbdbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_cdfaf6d9fd08fbbdc9b8db23df04378687db56c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.1_28f6e65f413e3c2a59cbb0d51aaa4aba1387b714/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_0b199cfd64280ad49ad6911612a5ca173d2a22f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_a6f369cde97dc49ac52c93ad576ca916b5521a70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_7f089b2d1c4ca31a2c3eec80951eb554aa50edaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_b225809e03476f5e700dbd354ec005672f4d0047/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_2d6df5c12c21edee768d6a47511ed67a780b4ac7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ed1d33684b15d84c9290246157622e7e8bddbb2">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9992b95cc37cb39fc385eb75ddffc9389feec72b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_39cf8772f0e01a0025abe9af2f77bf7e10e13c0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_82aac1c7965ff2c35dcf09ff9fd795508fb79168/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_319e512cea8f24eb0113078f0f089a80215b3b08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_ab87bcbac505142b7b138d6a0dbee130efa653be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_5282c6a39a1a4ec94bffba5fdb8d80bf6eb002b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_a6853d0e616fbab69d0ea41c380b5959f9bf247f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_4579fc075a2fecf3a67132543eca1009847f92fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_32d9eb7251a3a38df787387d227d4e16dd9cdc40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_b18670417121d5f926be29f072af0a58945f879c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_9c2b955a757775025baf4f9898349d1003388855/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/exploded-aar/gun0912.ted/tedpermission/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="703c95818950344722c5d545e0763f4ae92625ce">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/gun0912.ted-tedpermission-1.0.2_b9ca3d0174dad111d208065969066c579a128697/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_633f382482cc9f05e130706f34006008b2af9d23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_d3211588279fa223cab00f400cef66c1f07efd08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_3642d819d715a017a286df75dc386e1653a38b6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_b2ed88ccd572273ca7032b672c06cec923fbcbac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e17fecf4eb1417e56af196c798158ddada21b1cf">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fadc369bc6617845f69b987c86d05892149b1eb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="820d050b8366ac13c2ef462cdd8d4d9cb6a2b142">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8501bd068b0192b5262031ad8d958f512e6a891b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_259e0af0974a275480c59f73898d7343c1214501/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1cf7e268b50b361fc1ebd03a15103fb9de3808e6">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a72bbd354c2e0aa428455aa4be83b10267669886/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_d7042c215efc2c6e0b2c4fbfb1048b43aa91fd19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_5bc4167d09524eb02cc06530244a84a4149f5407/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_c3de6f84fe0b065dc38a615f016f43c58558fde6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_0c096dc0eaa6c874e70e220d524b4c7115bc1477/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_63ac25ba99e11cb9a953c3baa7fcefe23964e45b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_48bef6e76eec802ded1272e6ef908b9fa3348310/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_c6c828eb4e5d38c9ad67609d90258526680a7ea3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/gun0912.ted/tedpermission/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="703c95818950344722c5d545e0763f4ae92625ce">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gun0912.ted-tedpermission-1.0.2_7303dcc380bb82f0fbf09c24334c34bc06e53005/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_a3d7c6297156fbfc779dc1154f98467bc3627fe9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_f227d3e6e8b36b4c7a500f712fbc6e5113f2db52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/MartinRGB/Desktop/@Office/12.Selfie_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_00d98fb3ddd5b0ad2ddebe6be15f9c04f313980b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a819b2dcbbfaece3b59adfe43cba35ecaae828fa">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0a3612b7f2fee3dc4dbb5a6f50363434e6bee4b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_cce347f384c7a845e7f2ad74fe8e90334c2b9682/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_70225f08cd809f2bb73dfb998dc13f635275d891/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_5a65b3f93c4981f11c8cb9ca88e85c62b2d70eed/classes.dex" />
+    </item>
+
+</items>

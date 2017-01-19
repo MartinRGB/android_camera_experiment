@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/ucrop_vector_loader_animated.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable/ucrop_vector_loader_animated.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/ucrop_vector_ic_crop.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable/ucrop_vector_ic_crop.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/switch_camera_mode_selector.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/drawable/switch_camera_mode_selector.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/stop_button_background.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/drawable/stop_button_background.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/circle_frame_background.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/drawable/circle_frame_background.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/switch_camera_mode_selector.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/drawable/switch_camera_mode_selector.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/ucrop_vector_ic_crop.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable/ucrop_vector_ic_crop.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/circle_frame_background_dark.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/drawable/circle_frame_background_dark.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/take_photo_button.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/drawable/take_photo_button.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/ucrop_shadow_upside.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable/ucrop_shadow_upside.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/start_video_record_button.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/drawable/start_video_record_button.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/start_video_record_button.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/drawable/start_video_record_button.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/ucrop_vector_loader.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable/ucrop_vector_loader.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/ucrop_vector_loader.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable/ucrop_vector_loader.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/ucrop_vector_loader_animated.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable/ucrop_vector_loader_animated.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/stop_button_background.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/drawable/stop_button_background.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/ucrop_shadow_upside.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0/res/drawable/ucrop_shadow_upside.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/take_photo_button.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/drawable/take_photo_button.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/circle_frame_background.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/drawable/circle_frame_background.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/circle_frame_background_dark.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.sandrios.android/sandriosCamera/1.0.8/res/drawable/circle_frame_background_dark.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/MartinRGB/Desktop/Github/android_camera_experiment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/MartinRGB/Desktop/android_camera_exp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_seekbar_track_material.xml"
+    }
+]
