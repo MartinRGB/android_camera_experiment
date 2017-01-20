@@ -4,7 +4,7 @@ a simple experiment of camera in Android.A sample that can take photos,capture v
 
 Mainly use [sandroidsCamera](https://github.com/sandrios/sandriosCamera)'s library.
 
-Single tap to take photos,long press to take photos.
+Single tap to take photo,long press to take photos.
 
 ## Example
 
